@@ -1,0 +1,6 @@
+19. npx create-react-app my-app 
+        npm run
+            deleted all the source files 
+            made my own index.js 
+
+20. Styles and Images with CRA (create react app)
