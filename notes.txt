@@ -4,3 +4,10 @@
             made my own index.js 
 
 20. Styles and Images with CRA (create react app)
+    alot about css stylings, probably need to revisit
+
+21. Quick mental outline of project
+        wireframe your project 
+            with React Components in mind
+        
+22. Quick Figma Walkthrough  
